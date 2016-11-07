@@ -2,17 +2,184 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb12223a-0ff7-41cb-80a0-e3eff17f1c7f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/languages/admin-es_CO.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/languages/admin-es_CO.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/languages/admin-network-es_CO.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/languages/admin-network-es_CO.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/languages/continents-cities-es_CO.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/languages/continents-cities-es_CO.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/languages/es_CO.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/languages/es_CO.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2016/11/silde-1024x732.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2016/11/silde-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2016/11/silde-300x214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2016/11/silde-768x549.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/2016/11/silde.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/apple-touch-icon-114x114.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/apple-touch-icon-114x114.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/apple-touch-icon-72x72.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/apple-touch-icon-72x72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/favicon.ico" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.eot" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.ttf" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.woff" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/license.pdf" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/license.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/about1.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/about1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/about2.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/about2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/about3.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/about3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/about4.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/about4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/about5.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/about5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/award.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/award.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/award2.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/award2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/bg_section.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/bg_section.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/bgcoffee.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/bgcoffee.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/brandsbg.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/brandsbg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/calltoaction.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/calltoaction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/client1.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/client1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/client2.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/client2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/client3.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/client3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/client4.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/client4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/client5.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/client5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/coffee.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/coffee.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/coffee2.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/coffee2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/desserts.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/desserts.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/drinks.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/drinks.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/fork.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/fork.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery1.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery2.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery3.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery4.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery5.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery6.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery7.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery8.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery9.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/gallery9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/image1.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/image1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/knife.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/knife.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/logo.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/mapmarker.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/mapmarker.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/meals.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/meals.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/offer1.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/offer1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/offer2.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/offer2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/btnNext.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/contentPattern.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/contentPattern.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/default_thumbnail.gif" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/default_thumbnail.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/loader.gif" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/sprite.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_rounded/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/btnNext.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/btnPrevious.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/contentPattern.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/contentPattern.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/default_thumbnail.gif" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/default_thumbnail.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/loader.gif" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/sprite.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/dark_square/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/default_thumb.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/default_thumb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/loader.gif" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/sprite.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/sprite_next.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/sprite_next.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/sprite_prev.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/sprite_prev.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/sprite_x.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/sprite_x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/sprite_y.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/default/sprite_y.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/btnNext.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/btnPrevious.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/contentPatternBottom.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/contentPatternBottom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/contentPatternLeft.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/contentPatternLeft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/contentPatternRight.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/contentPatternRight.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/contentPatternTop.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/contentPatternTop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/default_thumbnail.gif" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/default_thumbnail.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/loader.gif" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/sprite.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/facebook/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_rounded/btnNext.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_rounded/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_rounded/btnPrevious.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_rounded/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_rounded/default_thumbnail.gif" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_rounded/default_thumbnail.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_rounded/loader.gif" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_rounded/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_rounded/sprite.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_rounded/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_square/btnNext.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_square/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_square/btnPrevious.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_square/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_square/default_thumbnail.gif" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_square/default_thumbnail.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_square/loader.gif" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_square/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_square/sprite.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/prettyPhoto/light_square/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/service.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/service.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/service1.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/service1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/service2.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/service2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/service3.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/service3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/slide1.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/slide1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/slide2.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/slide2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/slide3.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/slide3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/slide4.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/slide4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/snacks.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/snacks.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team1.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team2.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team3.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team4.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team5.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team6.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/team6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/testimonial1.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/testimonial1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/testimonial2.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/testimonial2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/testimonial3.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/testimonial3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/texture.jpg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/texture.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-config.php" afterPath="$PROJECT_DIR$/wordpress/wp-config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-load.php" afterPath="$PROJECT_DIR$/wordpress/wp-load.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/animate.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/bootstrap.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/datetimepicker.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/datetimepicker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/owl.carousel.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/prettyPhoto.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/prettyPhoto.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/style.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/bootstrap-glyphicons.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/bootstrap-glyphicons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.html" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.svg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/flaticons/flaticon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/footer.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/functions.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/index.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/contact.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/contact.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/datetimepicker.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/datetimepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/jquery.isotope.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/jquery.isotope.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/jquery.min.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/main.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/mc-validate.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/mc-validate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/moment-with-locales.min.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/moment-with-locales.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/plugins.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/prefixfree.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/prefixfree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/respond.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/respond.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/style.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/styles/blueberry.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/styles/blueberry.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/styles/goldenberry.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/styles/goldenberry.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/styles/justgreen.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/styles/justgreen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/styles/limeblue.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/styles/limeblue.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/styles/orangejuice.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/styles/orangejuice.css" />
     </list>
     <ignored path="refri.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,35 +200,13 @@
     <favorites_list name="refri" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+    <leaf>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.75396824">
+              <caret line="111" column="26" selection-start-line="111" selection-start-column="26" selection-end-line="111" selection-end-column="26" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.4875345">
-              <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#463#0#PHP" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -75,8 +220,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/wordpress/wp-config.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php" />
       </list>
     </option>
   </component>
@@ -90,9 +236,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="-4" />
-    <option name="width" value="1366" />
-    <option name="height" value="772" />
+    <option name="x" value="4" />
+    <option name="y" value="22" />
+    <option name="width" value="1276" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -119,17 +266,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="refri" />
+              <option name="myItemId" value="Refri" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="refri" />
+              <option name="myItemId" value="Refri" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -139,7 +287,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="refri" />
+              <option name="myItemId" value="Refri" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -153,7 +301,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="refri" />
+              <option name="myItemId" value="Refri" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -171,7 +319,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="refri" />
+              <option name="myItemId" value="Refri" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -191,9 +339,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Refri" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Refri" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="refribreak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -254,16 +427,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
-    <editor active="false" />
+    <frame x="4" y="22" width="1276" height="778" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24571854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2452978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35394126" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3531746" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -311,6 +484,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -319,10 +500,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -368,19 +549,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.16564417">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-config.php">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.4875345">
-          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#463#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.75396824">
+          <caret line="111" column="26" selection-start-line="111" selection-start-column="26" selection-end-line="111" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
