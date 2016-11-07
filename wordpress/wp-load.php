@@ -22,9 +22,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', dirname( __FILE__ ) . '/' );
 }
-require dirname(__DIR__).'/vendor/autoload.php';
-$dotenv = new Dotenv\Dotenv(dirname(__DIR__));
-$dotenv->load();
+
 error_reporting( E_CORE_ERROR | E_CORE_WARNING | E_COMPILE_ERROR | E_ERROR | E_WARNING | E_PARSE | E_USER_ERROR | E_USER_WARNING | E_RECOVERABLE_ERROR );
 
 /*
