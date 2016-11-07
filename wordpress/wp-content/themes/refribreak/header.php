@@ -102,9 +102,9 @@
                     </div>
                     <!-- slide text-->
                     <div class="slide__text">
-                        <h1 class="slide__text-heading"><?php echo get_post_meta($post->ID, "titulo-slider  ", $single = true) ?></h1>
+                        <h1 class="slide__text-heading"><?php echo get_post_meta($post->ID, "titulo-slider", $single = true) ?></h1>
                         <div class="hidden-sm hidden-xs">
-                            <p class="lead">We offer all the best quality products for an amazing start of the day.</p>
+                            <p class="lead"><?php echo get_post_meta($post->ID, "texto1-slider", $single = true) ?></p>
                             <div class="page-scroll">
                                 <a href="#services" class="btn btn-default">our services</a>
                             </div>
