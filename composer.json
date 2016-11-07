@@ -1,0 +1,16 @@
+{
+    "name": "root/refri",
+    "description": "Refri",
+    "require-dev": {
+    },
+    "authors": [
+        {
+            "name": "Juan2Ramos",
+            "email": "juan2ramos@gmail.com"
+        }
+    ],
+    "require": {
+        "johnpbloch/wordpress": "^4.6",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
