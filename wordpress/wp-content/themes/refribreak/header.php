@@ -58,7 +58,7 @@
                 <i class="fa fa-bars"></i>
             </button>
             <div class="navbar-brand navbar-brand-centered page-scroll"><a href="#page-top"><img
-                        src="<?php bloginfo('template_url') ?>/img/logo.png" alt=""></a></div>
+                        src="<?php bloginfo('template_url') ?>/img/logo-refribreak.png" alt=""></a></div>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="navbar-brand-centered">
@@ -90,12 +90,13 @@
 
     <!--Slider -->
     <div class="slider">
-        <?php global $post;
+        <?php
+        $i = 0;
         $my_query = new WP_Query('category_name=slider'); ?>
         <?php while ($my_query->have_posts()) : $my_query->the_post(); ?>
 
             <!-- Slide 1 -->
-            <div class="slide slide-0 active" style="background-image:url(<?php the_post_thumbnail_url( 'large' );?>)">
+            <div class="slide slide-<?php echo $i?> active" style="background-image:url(<?php the_post_thumbnail_url( 'large' );?>)">
                 <div class="slide__bg"></div>
                 <div class="slide__content">
                     <div class="slide__overlay">
@@ -112,7 +113,7 @@
                     </div>
                 </div>
             </div>
-        <?php endwhile; ?>
+        <?php $i++; endwhile; wp_reset_postdata(); ?>
     </div>
 </div>
 
