@@ -3,7 +3,7 @@
     <div class="container">
         <!-- Bottom Credits -->
         <div class="col-md-12 text-center">
-            <p>COPYRIGHT © 2016, Designed by  <a href="http://www.ingridkuhn.com">Ingrid Kuhn</a></p>
+            <p>COPYRIGHT © 2016, diseñado  por   <a target="_blank" href="http://artico.io">Artico Digital</a></p>
         </div>
     </div>
     <!-- /container -->

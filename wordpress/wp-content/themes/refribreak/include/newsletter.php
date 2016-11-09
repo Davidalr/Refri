@@ -3,7 +3,7 @@
     <div class="container">
         <div class="col-md-5 col-md-offset-1">
             <div class="text-center">
-                <h3 class="text-light">Newsletter</h3>
+                <h3 class="text-light">Llena el formualrio de pedido</h3>
                 <p class="text-light">This form has Mailchimp Integration just change one line of code and is ready
                     to use, simple and easy!
                 </p>
@@ -15,10 +15,8 @@
                         <div id="mc_embed_signup_scroll">
                             <div class="mc-field-group">
                                 <div class="input-group">
-                                    <input class="form-control input-lg required email" type="email" value=""
-                                           name="EMAIL" placeholder="Your email here" id="mce-EMAIL">
                                  <span class="input-group-btn">
-                                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe"
+                                 <input type="submit" value="IR" name="subscribe" id="mc-embedded-subscribe"
                                         class="btn btn-default">
                                  </span>
                                 </div>

@@ -1,4 +1,4 @@
-<section id="brands" style="background: url('<?php echo get_the_post_thumbnail_url(21); ?>')" class="text-light">
+<section id="brand" style="background: url('<?php echo get_the_post_thumbnail_url(21); ?>')" class="text-light">
     <div class="container text-center">
         <div class="col-lg-8 col-lg-offset-2">
             <!-- Section heading -->

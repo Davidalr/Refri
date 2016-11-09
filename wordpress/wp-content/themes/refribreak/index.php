@@ -48,7 +48,7 @@
     <!-- / section ends-->
 
     <!-- Map -->
-    <div class="wow fadeInTop" data-wow-delay="0.2s">
+    <div id="contact" class="wow fadeInTop" data-wow-delay="0.2s">
         <div id="map-canvas"></div>
     </div>
     <!-- / Map ends-->

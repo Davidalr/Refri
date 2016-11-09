@@ -1,4 +1,4 @@
-<section id="testimonials" data-0="background-position:82% 0%,82% 0%;" data-end="background-position:82% 100px,82% 0%">
+<section id="testimonial" data-0="background-position:82% 0%,82% 0%;" data-end="background-position:82% 100px,82% 0%">
     <div class="container">
         <div class="col-md-6 col-lg-7">
             <div class="col-md-12">
@@ -35,4 +35,3 @@
     </div>
     <!-- /container-->
 </section>
-

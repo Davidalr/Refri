@@ -2,7 +2,7 @@
     <div class="container">
         <!-- Section heading -->
         <div class="section-heading">
-            <h2>Our Gallery</h2>
+            <h2>Galería</h2>
         </div>
         <!-- Navigation -->
         <div class="nav-gallery col-md-12">

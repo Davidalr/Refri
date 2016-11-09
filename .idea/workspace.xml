@@ -2,25 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb12223a-0ff7-41cb-80a0-e3eff17f1c7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/logo-refribreak.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/brands.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/call.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/newsletter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/offer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/services.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/stats.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/team.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/testimonials.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/times.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/coffee.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/coffee.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/coffee2.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/img/coffee2.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/style.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/index.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/contact.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/gallery.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/gallery.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/menu.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/stats.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/stats.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/times.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/times.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/style.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/style.css" />
     </list>
     <ignored path="refri.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="menu.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/menu.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2898148">
-              <caret line="19" column="72" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="72" />
+            <state vertical-scroll-proportion="0.40028694">
+              <caret line="116" column="17" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -65,21 +55,22 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/style.css" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/footer.php" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/stats.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/offer.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/services.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/newsletter.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/call.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/team.php" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/contact.php" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/times.php" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/testimonials.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/brands.php" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/gallery.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/about.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/index.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/gallery.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/contact.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/times.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/stats.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/menu.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/style.css" />
       </list>
     </option>
   </component>
@@ -87,6 +78,9 @@
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -118,8 +112,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -248,6 +242,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="refri" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="refri" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="refribreak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -257,9 +281,9 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="SearchEverywhereHistoryKey" value="header&#9;FILE&#9;file:///Users/juan2ramos/Sites/refri/wordpress/wp-content/themes/refribreak/header.php" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -317,15 +341,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24635416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24583334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -357,6 +381,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -365,11 +397,69 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding>
+            <marker date="1478649658000" expanded="true" signature="37:3123" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="65:3089" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="112:262" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="191:247" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="351:1896" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="456:1847" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="624:1828" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="861:900" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1009:1048" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1120:1471" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1236:1280" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1337:1444" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1579:1658" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1769:1805" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="2024:3051" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="2272:2577" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="2656:3036" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding>
+            <marker date="1478649658000" expanded="true" signature="37:3123" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="65:3089" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="112:262" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="191:247" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="351:1896" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="456:1847" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="624:1828" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="861:900" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1009:1048" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1120:1471" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1236:1280" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1337:1444" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1579:1658" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1769:1805" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="2024:3051" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="2272:2577" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="2656:3036" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -377,37 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
-          <folding>
-            <marker date="1478560136000" expanded="true" signature="31:5627" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="38:2393" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="90:170" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="415:518" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="792:818" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="1297:1323" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2474:5627" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2514:2644" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2540:2637" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2712:4083" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2740:4051" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2848:3248" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2965:3030" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3103:3233" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3123:3227" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3128:3223" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3400:4005" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3452:3688" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3754:3990" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4158:5604" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4358:5597" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4498:5554" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4622:4686" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4687:5532" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4778:5513" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4827:4854" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4939:5490" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="5130:5463" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="5304:5432" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -415,167 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.022222223">
           <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding>
-            <marker date="1473260507000" expanded="false" signature="9:168" placeholder=" WordPress User Page ..." />
-            <marker date="1473260507000" expanded="true" signature="381:619" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="437:518" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="526:617" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="625:970" placeholder=" Output the login page header. ..." />
-            <marker date="1473260507000" expanded="true" signature="1048:6473" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="1483:1648" placeholder=" Filters the error codes array for shaking the login form. ..." />
-            <marker date="1473260507000" expanded="true" signature="1982:2093" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="2224:4641" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="2472:2652" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="2707:2889" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="2896:2971" placeholder=" Enqueue scripts and styles for the login page. ..." />
-            <marker date="1473260507000" expanded="true" signature="3018:3105" placeholder=" Fires in the login page header after scripts are enqueued. ..." />
-            <marker date="1473260507000" expanded="true" signature="3161:3262" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="3270:3382" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="3389:3534" placeholder=" Filters link URL of the header logo above login form. ..." />
-            <marker date="1473260507000" expanded="true" signature="3618:3788" placeholder=" Filters the title attribute of the header logo above login form. ..." />
-            <marker date="1473260507000" expanded="true" signature="4047:4245" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="4354:4558" placeholder=" Filters the login page body classes. ..." />
-            <marker date="1473260507000" expanded="true" signature="4728:4817" placeholder=" Fires in the login page header after the body tag is opened. ..." />
-            <marker date="1473260507000" expanded="true" signature="5102:5234" placeholder=" Filters the message to display above the login form. ..." />
-            <marker date="1473260507000" expanded="true" signature="5438:5492" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="5532:6471" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="5620:5900" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="5745:5896" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="5931:6183" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="5938:6088" placeholder=" Filters the error messages displayed above the login form. ..." />
-            <marker date="1473260507000" expanded="true" signature="6216:6468" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="6223:6374" placeholder=" Filters instructional messages displayed above the login form. ..." />
-            <marker date="1473260507000" expanded="true" signature="6504:6604" placeholder=" Outputs the footer for the login page. ..." />
-            <marker date="1473260507000" expanded="true" signature="6646:7379" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="6760:6980" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="6783:6971" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="6835:6967" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="7033:7209" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="7068:7200" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="7231:7291" placeholder=" Fires in the login page footer. ..." />
-            <marker date="1473260507000" expanded="true" signature="7385:7403" placeholder=" @since 3.0.0 ..." />
-            <marker date="1473260507000" expanded="true" signature="7430:8154" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="7497:8146" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="8160:8178" placeholder=" @since 3.7.0 ..." />
-            <marker date="1473260507000" expanded="true" signature="8216:8283" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="8289:8562" placeholder=" Handles sending password retrieval email to user. ..." />
-            <marker date="1473260507000" expanded="true" signature="8595:11969" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="8691:8793" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="8843:9075" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="9083:9169" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="9176:9456" placeholder=" Fires before errors are returned from a password reset request. ..." />
-            <marker date="1473260507000" expanded="true" signature="9578:9688" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="9918:9935" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="10556:10723" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="10865:11173" placeholder=" Filters the subject of the password reset email. ..." />
-            <marker date="1473260507000" expanded="true" signature="11268:11628" placeholder=" Filters the message body of the password reset mail. ..." />
-            <marker date="1473260507000" expanded="true" signature="12557:12930" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="13281:13347" placeholder=" Fires when the login form is initialized. ..." />
-            <marker date="1473260507000" expanded="true" signature="13380:13633" placeholder=" Fires before a specified login form action. ..." />
-            <marker date="1473260507000" expanded="true" signature="13799:34034" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="13818:14723" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="13874:13926" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="14027:14289" placeholder=" Filters the life span of the post password cookie. ..." />
-            <marker date="1473260507000" expanded="true" signature="14423:14492" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="14500:14521" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="14740:15513" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="14868:14938" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="14946:15027" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="15034:15370" placeholder=" Filters the log out redirect URL. ..." />
-            <marker date="1473260507000" expanded="true" signature="15562:18189" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="15584:15821" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="15650:15818" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="15857:16189" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="15899:16025" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="16070:16186" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="16291:16481" placeholder=" Filters the URL redirected to after submitting the lostpassword/retrievepassword form. ..." />
-            <marker date="1473260507000" expanded="true" signature="16571:16636" placeholder=" Fires before the lost password form. ..." />
-            <marker date="1473260507000" expanded="true" signature="17120:17750" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="17125:17332" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="17152:17326" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="17345:17440" placeholder=" Fires inside the lostpassword form tags, before the hidden fields. ..." />
-            <marker date="1473260507000" expanded="true" signature="17764:18146" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="17892:18133" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="18221:22630" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="18372:18617" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="18706:18958" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="18934:18955" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="18966:18985" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="19029:19371" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="19558:19811" placeholder=" Fires before the password reset procedure is validated. ..." />
-            <marker date="1473260507000" expanded="true" signature="19970:20335" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="20716:22189" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="20853:21363" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="20859:20926" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="20950:21355" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="20991:21228" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="21393:21576" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="21694:21886" placeholder=" Fires following the 'Strength indicator' meter in the user password reset form. ..." />
-            <marker date="1473260507000" expanded="true" signature="22203:22588" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="22334:22575" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="22649:25319" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="22674:22906" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="22680:22801" placeholder=" Filters the Multisite sign up URL. ..." />
-            <marker date="1473260507000" expanded="true" signature="22952:23029" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="23090:23498" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="23330:23495" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="23600:23742" placeholder=" Filters the registration redirect URL. ..." />
-            <marker date="1473260507000" expanded="true" signature="24124:25075" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="24129:24338" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="24156:24332" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="24343:24554" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="24370:24548" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="24567:24660" placeholder=" Fires following the 'Email' field in the user registration form. ..." />
-            <marker date="1473260507000" expanded="true" signature="25089:25276" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="25344:34033" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="25623:25947" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="25763:25813" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="25832:25944" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="25882:25940" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="25993:26221" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="26229:26261" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="26414:27177" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="26440:26769" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="26489:26762" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="26849:27174" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="26972:27167" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="27277:27653" placeholder=" Filters the login redirect URL. ..." />
-            <marker date="1473260507000" expanded="true" signature="27794:29049" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="27820:28355" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="28115:28312" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="28456:29002" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="29207:29368" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="29376:30473" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="30480:30648" placeholder=" Filters the login page errors. ..." />
-            <marker date="1473260507000" expanded="true" signature="31114:31179" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="31187:31221" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="31354:32685" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="31359:31598" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="31386:31592" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="31603:31797" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="31629:31791" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="31810:31894" placeholder=" Fires following the 'Password' field in the login form. ..." />
-            <marker date="1473260507000" expanded="true" signature="32152:32677" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="32323:32390" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="32398:32500" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="32538:32609" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="32719:33278" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="32734:33270" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="32849:33257" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="32894:33139" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="33314:34002" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="33343:33679" placeholder="{...}" />
-            <marker date="1473260507000" expanded="true" signature="33367:33670" placeholder="{...}" />
-            <marker date="1473260507000" expanded="true" signature="33372:33657" placeholder="{...}" />
-            <marker date="1473260507000" expanded="true" signature="33400:33466" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="33474:33629" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="33583:33627" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="33703:33733" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="33810:33989" placeholder="..." />
-            <marker date="1473260507000" expanded="true" signature="33825:33978" placeholder="{...}" />
-            <marker date="1473260507000" expanded="true" signature="33831:33965" placeholder="{...}" />
-            <marker date="1473260507000" expanded="true" signature="33905:33963" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -591,19 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.111878455">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <marker date="1478547544000" expanded="false" signature="9:461" placeholder=" The base configuration for WordPress ..." />
-            <marker date="1478547544000" expanded="true" signature="1145:1514" placeholder=" Authentication Unique Keys and Salts. ..." />
-            <marker date="1478547544000" expanded="true" signature="2137:2317" placeholder=" WordPress Database Table prefix. ..." />
-            <marker date="1478547544000" expanded="true" signature="2348:2744" placeholder=" For developers: WordPress debugging mode. ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26519337">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -611,12 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8">
           <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-          <folding>
-            <marker date="1478547545000" expanded="true" signature="23:461" placeholder="..." />
-            <marker date="1478547545000" expanded="true" signature="51:255" placeholder="..." />
-            <marker date="1478547545000" expanded="true" signature="127:244" placeholder="..." />
-            <marker date="1478547545000" expanded="true" signature="357:451" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,164 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06629834">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/stats.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
-          <folding>
-            <marker date="1478556680000" expanded="true" signature="41:1783" placeholder="..." />
-            <marker date="1478556680000" expanded="true" signature="69:1748" placeholder="..." />
-            <marker date="1478556680000" expanded="true" signature="108:1717" placeholder="..." />
-            <marker date="1478556680000" expanded="true" signature="157:1670" placeholder="..." />
-            <marker date="1478556680000" expanded="true" signature="205:536" placeholder="..." />
-            <marker date="1478556680000" expanded="true" signature="397:470" placeholder="..." />
-            <marker date="1478556680000" expanded="true" signature="616:907" placeholder="..." />
-            <marker date="1478556680000" expanded="true" signature="772:844" placeholder="..." />
-            <marker date="1478556680000" expanded="true" signature="987:1277" placeholder="..." />
-            <marker date="1478556680000" expanded="true" signature="1146:1219" placeholder="..." />
-            <marker date="1478556680000" expanded="true" signature="1357:1651" placeholder="..." />
-            <marker date="1478556680000" expanded="true" signature="1514:1586" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/offer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <marker date="1478556908000" expanded="false" signature="41:646" placeholder="..." />
-            <marker date="1478556908000" expanded="true" signature="51:608" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-          <folding>
-            <marker date="1478556914000" expanded="false" signature="38:3249" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="66:3215" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="113:264" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="192:249" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="345:1122" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="486:1107" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="1257:1277" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="1312:3182" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="1384:1901" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="1422:1882" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="1468:1612" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="1680:1859" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="2003:2515" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="2041:2496" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="2087:2231" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="2294:2473" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="2617:3137" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="2655:3118" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="2701:2845" placeholder="..." />
-            <marker date="1478556914000" expanded="true" signature="2916:3095" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/call.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding>
-            <marker date="1478557009000" expanded="false" signature="91:1027" placeholder="..." />
-            <marker date="1478557009000" expanded="true" signature="187:993" placeholder="..." />
-            <marker date="1478557009000" expanded="true" signature="255:955" placeholder="..." />
-            <marker date="1478557009000" expanded="true" signature="347:603" placeholder="..." />
-            <marker date="1478557009000" expanded="true" signature="670:940" placeholder="..." />
-            <marker date="1478557009000" expanded="true" signature="884:921" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
-          <folding>
-            <marker date="1478557155000" expanded="false" signature="37:2887" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="65:2853" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="112:261" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="191:246" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="350:1930" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="458:1881" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="626:1862" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="852:891" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="1001:1040" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="1112:1464" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="1229:1273" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="1330:1437" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="1572:1662" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="1773:1839" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="2058:2815" placeholder="..." />
-            <marker date="1478557155000" expanded="true" signature="2420:2800" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/times.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-          <folding>
-            <marker date="1478557178000" expanded="false" signature="43:1086" placeholder="..." />
-            <marker date="1478557178000" expanded="true" signature="82:1050" placeholder="..." />
-            <marker date="1478557178000" expanded="true" signature="147:1011" placeholder="..." />
-            <marker date="1478557178000" expanded="true" signature="203:965" placeholder="..." />
-            <marker date="1478557178000" expanded="true" signature="330:946" placeholder="..." />
-            <marker date="1478557178000" expanded="true" signature="358:921" placeholder="..." />
-            <marker date="1478557178000" expanded="true" signature="383:544" placeholder="..." />
-            <marker date="1478557178000" expanded="true" signature="569:722" placeholder="..." />
-            <marker date="1478557178000" expanded="true" signature="747:892" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4888889">
-          <caret line="98" column="130" selection-start-line="98" selection-start-column="88" selection-end-line="98" selection-end-column="130" />
-          <folding>
-            <marker date="1478560136000" expanded="true" signature="31:5627" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="38:2393" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="90:170" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="415:518" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="792:818" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="1297:1323" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2474:5627" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2514:2644" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2540:2637" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2712:4083" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2740:4051" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2848:3248" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="2965:3030" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3103:3233" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3123:3227" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3128:3223" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3400:4005" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3452:3688" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="3754:3990" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4158:5604" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4358:5597" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4498:5554" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4622:4686" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4687:5532" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4778:5513" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4827:4854" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="4939:5490" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="5130:5463" placeholder="..." />
-            <marker date="1478560136000" expanded="true" signature="5304:5432" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -796,45 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4">
           <caret line="18" column="80" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="80" />
-          <folding>
-            <marker date="1478560970000" expanded="true" signature="118:1605" placeholder="..." />
-            <marker date="1478560970000" expanded="true" signature="146:1571" placeholder="..." />
-            <marker date="1478560970000" expanded="true" signature="186:1533" placeholder="..." />
-            <marker date="1478560970000" expanded="true" signature="222:392" placeholder="..." />
-            <marker date="1478560970000" expanded="true" signature="309:373" placeholder="..." />
-            <marker date="1478560970000" expanded="true" signature="453:1482" placeholder="..." />
-            <marker date="1478560970000" expanded="true" signature="677:1414" placeholder="..." />
-            <marker date="1478560970000" expanded="true" signature="739:1380" placeholder="..." />
-            <marker date="1478560970000" expanded="true" signature="808:1050" placeholder="..." />
-            <marker date="1478560970000" expanded="true" signature="952:1019" placeholder="..." />
-            <marker date="1478560970000" expanded="true" signature="1125:1346" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/gallery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2">
-          <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
-          <folding>
-            <marker date="1478564882000" expanded="true" signature="37:2290" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="65:2255" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="136:184" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="256:597" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="341:582" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="377:431" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="648:2222" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="684:2176" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="720:2123" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="851:2047" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="1038:1205" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="1095:1179" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="1234:2014" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="1291:1983" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="1351:1948" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="1465:1513" placeholder="..." />
-            <marker date="1478564882000" expanded="true" signature="1674:1909" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -842,9 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15555556">
           <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <marker date="1478568578000" expanded="true" signature="1304:1351" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -852,55 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5777778">
           <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding>
-            <marker date="1478557072000" expanded="true" signature="18:6166" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="46:6132" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="93:240" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="172:225" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="311:6095" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="376:1242" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="411:1193" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="581:1101" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="650:779" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="861:1074" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="927:997" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="930:993" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="1337:2203" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="1372:2154" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="1542:2059" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="1608:1737" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="1819:2032" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="1885:1955" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="1888:1951" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="2298:3160" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="2333:3111" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="2503:3020" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="2569:2698" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="2780:2993" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="2846:2916" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="2849:2912" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="3255:4127" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="3290:4078" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="3460:3987" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="3536:3665" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="3747:3960" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="3813:3883" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="3816:3879" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="4223:5093" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="4258:5044" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="4428:4952" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="4501:4630" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="4712:4925" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="4778:4848" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="4781:4844" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="5188:6050" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="5223:6001" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="5393:5910" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="5459:5588" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="5670:5883" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="5736:5806" placeholder="..." />
-            <marker date="1478557072000" expanded="true" signature="5739:5802" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,28 +538,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13333334">
           <caret line="6" column="100" selection-start-line="6" selection-start-column="98" selection-end-line="6" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09266409">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71814674">
+          <caret line="46" column="80" selection-start-line="46" selection-start-column="80" selection-end-line="46" selection-end-column="80" />
           <folding>
-            <marker date="1478557004000" expanded="true" signature="90:2418" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="176:2384" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="223:2346" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="261:2297" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="355:498" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="571:2236" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="689:2173" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="923:2088" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="980:2005" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="1038:1575" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="1149:1250" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="1314:1536" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="1431:1495" placeholder="..." />
-            <marker date="1478557004000" expanded="true" signature="1712:1970" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="37:3123" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="65:3089" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="112:262" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="191:247" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="351:1896" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="456:1847" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="624:1828" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="861:900" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1009:1048" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1120:1471" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1236:1280" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1337:1444" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1579:1658" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="1769:1805" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="2024:3051" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="2272:2577" placeholder="..." />
+            <marker date="1478649658000" expanded="true" signature="2656:3036" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/times.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44015443">
+          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+          <folding>
+            <marker date="1478650193000" expanded="true" signature="43:1114" placeholder="..." />
+            <marker date="1478650193000" expanded="true" signature="82:1078" placeholder="..." />
+            <marker date="1478650193000" expanded="true" signature="147:1039" placeholder="..." />
+            <marker date="1478650193000" expanded="true" signature="203:993" placeholder="..." />
+            <marker date="1478650193000" expanded="true" signature="336:974" placeholder="..." />
+            <marker date="1478650193000" expanded="true" signature="364:949" placeholder="..." />
+            <marker date="1478650193000" expanded="true" signature="389:548" placeholder="..." />
+            <marker date="1478650193000" expanded="true" signature="573:722" placeholder="..." />
+            <marker date="1478650193000" expanded="true" signature="747:920" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.95555556">
+        <state vertical-scroll-proportion="2.803089">
           <caret line="121" column="0" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
           <folding>
             <marker date="1478565454000" expanded="true" signature="19:7111" placeholder="..." />
@@ -980,10 +645,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/brands.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31111112">
+        <state vertical-scroll-proportion="0.3243243">
           <caret line="14" column="88" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="88" />
           <folding>
-            <marker date="1478564298000" expanded="true" signature="28:92" placeholder="..." />
+            <marker date="1478564298000" expanded="false" signature="28:92" placeholder="..." />
             <marker date="1478564298000" expanded="true" signature="112:1029" placeholder="..." />
             <marker date="1478564298000" expanded="true" signature="152:994" placeholder="..." />
             <marker date="1478564298000" expanded="true" signature="199:352" placeholder="..." />
@@ -996,10 +661,172 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/call.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44015443">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <marker date="1478557009000" expanded="true" signature="91:1027" placeholder="..." />
+            <marker date="1478557009000" expanded="true" signature="187:993" placeholder="..." />
+            <marker date="1478557009000" expanded="true" signature="255:955" placeholder="..." />
+            <marker date="1478557009000" expanded="true" signature="347:603" placeholder="..." />
+            <marker date="1478557009000" expanded="true" signature="670:940" placeholder="..." />
+            <marker date="1478557009000" expanded="true" signature="884:921" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/offer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27799228">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <marker date="1478556908000" expanded="true" signature="41:646" placeholder="..." />
+            <marker date="1478556908000" expanded="true" signature="51:608" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/stats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75555557">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <folding>
+            <marker date="1478650519000" expanded="true" signature="41:1781" placeholder="..." />
+            <marker date="1478650519000" expanded="true" signature="69:1746" placeholder="..." />
+            <marker date="1478650519000" expanded="true" signature="108:1715" placeholder="..." />
+            <marker date="1478650519000" expanded="true" signature="157:1668" placeholder="..." />
+            <marker date="1478650519000" expanded="true" signature="205:534" placeholder="..." />
+            <marker date="1478650519000" expanded="true" signature="397:470" placeholder="..." />
+            <marker date="1478650519000" expanded="true" signature="614:904" placeholder="..." />
+            <marker date="1478650519000" expanded="true" signature="770:842" placeholder="..." />
+            <marker date="1478650519000" expanded="true" signature="984:1274" placeholder="..." />
+            <marker date="1478650519000" expanded="true" signature="1143:1216" placeholder="..." />
+            <marker date="1478650519000" expanded="true" signature="1354:1649" placeholder="..." />
+            <marker date="1478650519000" expanded="true" signature="1511:1583" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0484331">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding>
+            <marker date="1478556914000" expanded="true" signature="38:3249" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="66:3215" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="113:264" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="192:249" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="345:1122" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="486:1107" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="1257:1277" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="1312:3182" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="1384:1901" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="1422:1882" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="1468:1612" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="1680:1859" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="2003:2515" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="2041:2496" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="2087:2231" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="2294:2473" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="2617:3137" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="2655:3118" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="2701:2845" placeholder="..." />
+            <marker date="1478556914000" expanded="true" signature="2916:3095" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22222222">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <marker date="1478654758000" expanded="true" signature="140:175" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/include/menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2898148">
-          <caret line="19" column="72" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="72" />
+        <state vertical-scroll-proportion="0.4888889">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+          <folding>
+            <marker date="1478654091000" expanded="true" signature="18:4167" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="58:4132" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="129:175" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="274:570" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="640:4094" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="734:1670" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="768:1636" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="924:1577" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="999:1012" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="1013:1547" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="1057:1523" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="1100:1496" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="1289:1379" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="1760:2843" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="1794:2793" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="1963:2718" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="2044:2057" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="2058:2680" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="2110:2648" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="2161:2613" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="2374:2480" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="2959:4050" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="2993:4000" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="3168:3925" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="3250:3264" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="3265:3887" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="3317:3855" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="3368:3820" placeholder="..." />
+            <marker date="1478654091000" expanded="true" signature="3581:3687" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6444445">
+          <caret line="74" column="50" selection-start-line="74" selection-start-column="50" selection-end-line="74" selection-end-column="50" />
+          <folding>
+            <marker date="1478653617000" expanded="true" signature="31:5592" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="38:2393" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="90:170" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="415:518" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="792:818" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="1297:1323" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="2474:5592" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="2514:2644" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="2540:2637" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="2712:3989" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="2740:3957" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="2848:3248" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="2965:3030" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="3103:3233" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="3123:3227" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="3128:3223" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="3400:3911" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="3452:3643" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="3709:3896" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="4064:5569" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="4264:5562" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="4404:5519" placeholder="..." />
+            <marker date="1478653617000" expanded="false" signature="4528:4592" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="4593:5497" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="4684:5478" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="4733:4760" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="4845:5455" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="5036:5428" placeholder="..." />
+            <marker date="1478653617000" expanded="true" signature="5210:5397" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40028694">
+          <caret line="116" column="17" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
           <folding />
         </state>
       </provider>

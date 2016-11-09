@@ -63,16 +63,16 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="navbar-brand-centered">
             <ul class="nav navbar-nav page-scroll">
-                <li><a href="#page-top">Home</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#menu">Our Menu</a></li>
+
+                <li><a href="#service">Servicios</a></li>
+                <li><a href="#testimonial">Testimonios</a></li>
+                <li><a href="#brand">Marcas</a></li>
             </ul>
             <ul class="nav navbar-nav  page-scroll navbar-right">
-                <li><a href="#gallery">Gallery</a></li>
-                <li><a href="#team">Team</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li><a href="#opening">Opening</a></li>
+
+                <li><a href="#gallery">Galeria</a></li>
+                <li><a href="#point">Puntos</a></li>
+                <li><a href="#contact">Contáctanos</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -107,7 +107,7 @@
                         <div class="hidden-sm hidden-xs">
                             <p class="lead"><?php echo get_post_meta($post->ID, "texto1-slider", $single = true) ?></p>
                             <div class="page-scroll">
-                                <a href="#services" class="btn btn-default">our services</a>
+                                <a href="#services" class="btn btn-default"><?php echo get_post_meta($post->ID, "texto2-slider", $single = true) ?></a>
                             </div>
                         </div>
                     </div>
