@@ -14,6 +14,7 @@
     <script src="<?php bloginfo('template_url') ?>/js/respond.js"></script>
     <![endif]-->
     <!-- Bootstrap Core CSS -->
+    <link href = "https://fonts.googleapis.com/css?family= Comfortaa " rel = "stylesheet">
     <link href="<?php bloginfo('template_url') ?>/css/bootstrap.css" rel="stylesheet" type="text/css">
     <!-- Icon fonts -->
     <link href="<?php bloginfo('template_url') ?>/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"
@@ -27,7 +28,7 @@
     <!-- Theme CSS -->
     <link href="<?php bloginfo('template_url') ?>/css/style.css" rel="stylesheet">
     <!-- Color Style CSS -->
-    <link href="<?php bloginfo('template_url') ?>/styles/goldenberry.css" rel="stylesheet">
+    <link href="<?php bloginfo('template_url') ?>/styles/orangejuice.css" rel="stylesheet">
     <!-- Owl Slider & Prettyphoto -->
     <link rel="stylesheet" href="<?php bloginfo('template_url') ?>/css/owl.carousel.css">
     <link rel="stylesheet" href="<?php bloginfo('template_url') ?>/css/prettyPhoto.css">

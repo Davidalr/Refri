@@ -7,9 +7,9 @@
         <!-- Navigation -->
         <div class="nav-gallery col-md-12">
             <ul class="nav nav-tabs cat text-center" role="tablist" id="tabgallery">
-                <li class="active"><a href="#" data-filter="*">Todas</a>
-                <li><a href="#" data-filter=".puntos">Puntos</a></li>
-                <li><a href="#" data-filter=".refrigerios">Refrigerios</a></li>
+                <li class="active"><a href="#" data-filter="*">Puntos</a>
+                <li><a href="#" data-filter=".puntos">Eventos</a></li>
+                <li><a href="#" data-filter=".refrigerios">Nosotros</a></li>
             </ul>
         </div>
         <!-- Gallery -->

@@ -115,4 +115,8 @@ a:focus,
 #stats i,
 #menu .tab-content
 {border-color:#673F11;}
+h2
+{
+    font-family: 'Comfortaa', cursiva!important;
+}
 

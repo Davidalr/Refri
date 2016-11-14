@@ -19,13 +19,7 @@
                            required="">
                     <input type="text" name="subject" class="form-control input-field" placeholder="Asunto"
                            required="">
-                    <div class="input-group date" id="datetimepicker1">
-                        <input type="text" name="date" class="form-control input-field" placeholder="Fecha y Hora"
-                               required=""/>
-                        <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-calendar"></span>
-                        </span>
-                    </div>
+
                         <textarea name="message" id="message" class="textarea-field form-control" rows="4"
                                   placeholder="Mensaje" required=""></textarea>
                     <button type="submit" id="submit_btn" value="Submit" class="btn btn-primary center-block">Enviar
@@ -40,15 +34,18 @@
         <div class="col-md-5 col-md-offset-1 text-center white_block">
             <h4>Información</h4>
             <p>Contacto para información adicional:</p>
-            <p><a href="mailto:youremailaddress">refrigerios@refribreak.com</a> O llámenos +57 496 27 56</p>
+            <p><a href="mailto:youremailaddress">refrigerios@refribreak.com</a> </p>
             <!-- address info -->
-            i
+             <p>Números de contacto:<br/></p>
+                <p> <a href="movil" >Móvil: 300 762974<br/></a></p>
+                <p><a href="tel" >Fijo: (1) 488 4754<br/></a></p>
+                <p><a href="what"> Whatsapp: 300 2080211</a></p>
+
+             </p>
+
             <!-- Social Media icons -->
             <div class="social-media">
-                <a href="#" title=""><i class="fa fa-twitter"></i></a>
                 <a href="#" title=""><i class="fa fa-facebook"></i></a>
-                <a href="#" title=""><i class="fa fa-linkedin"></i></a>
-                <a href="#" title=""><i class="fa fa-pinterest"></i></a>
                 <a href="#" title=""><i class="fa fa-instagram"></i></a>
             </div>
         </div>

@@ -46,7 +46,7 @@
             <div class="tab-pane  in fade" id="tab2">
                 <div class="row">
 
-                    <h3>Refrigerios</h3>
+                    <h3>Cafeterías</h3>
                     <?php $coffee = new WP_Query('category_name=coffee');
                     while ($coffee->have_posts()) : $coffee->the_post(); ?>
 
@@ -75,7 +75,7 @@
             <div class="tab-pane  in fade" id="tab3">
                 <div class="row">
 
-                    <h3>Refrigerios</h3>
+                    <h3>Montaje y alimentación de eventos</h3>
                     <?php $mounting = new WP_Query('category_name=mounting');
                     while ($mounting->have_posts()) : $mounting->the_post(); ?>
 

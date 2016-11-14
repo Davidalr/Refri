@@ -5,34 +5,34 @@
                 <div class="col-md-3 col-sm-6">
                     <!-- item 1 -->
                     <i class="flaticon-snacks1"></i>
-                    <div class="numscroller" data-slno='1' data-min='0' data-max='50' data-delay='20'
+                    <div class="numscroller" data-slno='1' data-min='0' data-max='1000' data-delay='20'
                          data-increment="19">0
                     </div>
-                    <h5>Refrigerios</h5>
+                    <h5>Refrigerios al dia</h5>
                 </div>
                 <!-- item 2 -->
                 <div class="col-md-3 col-sm-6">
-                    <i class="flaticon-toasted"></i>
-                    <div class="numscroller" data-slno='1' data-min='0' data-max='90' data-delay='10'
+                    <i class="flaticon-restaurant33"></i>
+                    <div class="numscroller" data-slno='1' data-min='0' data-max='7' data-delay='10'
                          data-increment="9">0
                     </div>
-                    <h5>Desayunos</h5>
+                    <h5>Puntos de Distribución</h5>
                 </div>
                 <!-- item 3 -->
                 <div class="col-md-3 col-sm-6">
                     <i class="flaticon-multiple25"></i>
-                    <div class="numscroller" data-slno='1' data-min='0' data-max='70' data-delay='20'
+                    <div class="numscroller" data-slno='1' data-min='0' data-max='5000' data-delay='20'
                          data-increment="19">0
                     </div>
-                    <h5>Mesas</h5>
+                    <h5>Clientes Diarios</h5>
                 </div>
                 <!-- item 4 -->
                 <div class="col-md-3 col-sm-6">
-                    <i class="flaticon-coffee21"></i>
-                    <div class="numscroller" data-slno='1' data-min='0' data-max='45' data-delay='10'
+                    <i class="flaticon-tea24"></i>
+                    <div class="numscroller" data-slno='1' data-min='0' data-max='+1000' data-delay='10'
                          data-increment="9">0
                     </div>
-                    <h5>Tipos de Café</h5>
+                    <h5>Tazas de Café al dia</h5>
                 </div>
             </div>
             <!--/text-center-->
