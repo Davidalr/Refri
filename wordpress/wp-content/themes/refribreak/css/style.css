@@ -60,13 +60,13 @@ h1 {
     letter-spacing: 0.7px;
     margin-bottom: 20px;
     font-weight: 700;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Comfortaa', cursiva!important;
     text-shadow: 3px 3px rgba(0, 0, 0, .4);
 }
 
 h2 {
     font-size: 40px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Comfortaa', cursiva     !important;
     margin-bottom: 20px;
     text-transform: uppercase;
     color: #fff;
@@ -481,17 +481,6 @@ ul.slider-pagi {
     opacity: 0;
     background: rgba(255, 152, 0, 0.89)!important;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 .slide__overlay {
@@ -1661,6 +1650,7 @@ ul {
     letter-spacing: 0.2px;
     color: #fff;
     border: 4px double;
+    background: #b08053!important;
 }
 
 .btn:hover {

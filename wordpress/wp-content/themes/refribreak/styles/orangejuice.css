@@ -36,7 +36,7 @@ footer a,h5 span,h1 small,h2 small,h3 small, h4 small,h5 small,h6 small
 #gallery .nav.nav-tabs > li > a:hover,
 .form-control:focus,
 .slider .btn
-{border-color:#BF5114;}
+{border-color:#f78711;}
 
 h2,
 #newsletter,
@@ -101,6 +101,17 @@ footer,
 .nav.nav-tabs > li.active > a:focus,
 .menu-item-price
 {background-color:#673F11;}
+.team .teamname {
+    background-color:#f78711!important;
+}
+.nav.nav-tabs>li.active>a{
+    background-color:#DCDB21!important;
+}
+#gallery .nav.nav-tabs > li > .active{
+    background-color:#DCDB21!important;
+    border-color: #DCDB21!important;
+}
+
 
 a:hover,
 a:focus,

@@ -14,7 +14,7 @@
     <script src="<?php bloginfo('template_url') ?>/js/respond.js"></script>
     <![endif]-->
     <!-- Bootstrap Core CSS -->
-    <link href = "https://fonts.googleapis.com/css?family= Comfortaa " rel = "stylesheet">
+    <link href="https://fonts.googleapis.com/css?family= Comfortaa " rel="stylesheet">
     <link href="<?php bloginfo('template_url') ?>/css/bootstrap.css" rel="stylesheet" type="text/css">
     <!-- Icon fonts -->
     <link href="<?php bloginfo('template_url') ?>/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"
@@ -97,7 +97,8 @@
         <?php while ($my_query->have_posts()) : $my_query->the_post(); ?>
 
             <!-- Slide 1 -->
-            <div class="slide slide-<?php echo $i?> active" style="background-image:url(<?php the_post_thumbnail_url( 'large' );?>)">
+            <div class="slide slide-<?php echo $i ?> active"
+                 style="background-image:url(<?php the_post_thumbnail_url('large'); ?>)">
                 <div class="slide__bg"></div>
                 <div class="slide__content">
                     <div class="slide__overlay">
@@ -108,13 +109,18 @@
                         <div class="hidden-sm hidden-xs">
                             <p class="lead"><?php echo get_post_meta($post->ID, "texto1-slider", $single = true) ?></p>
                             <div class="page-scroll">
-                                <a href="#services" class="btn btn-default"><?php echo get_post_meta($post->ID, "texto2-slider", $single = true) ?></a>
+                                <?php $boton = get_post_meta($post->ID, "boton-slider", $single = true);
+                                    if(!empty($boton)){
+                                ?>
+                                <a href="<?php echo get_post_meta($post->ID, "url-boton-slider", $single = true)?>" class="btn btn-default"><?php echo $boton?></a>
+                                <?php }?>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        <?php $i++; endwhile; wp_reset_postdata(); ?>
+            <?php $i++; endwhile;
+        wp_reset_postdata(); ?>
     </div>
 </div>
 
