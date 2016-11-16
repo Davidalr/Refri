@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title> <?php the_title() ?> </title>
+
     <!--[if IE]>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <![endif]-->
@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Page title -->
-    <title> <?php the_title() ?> </title>
+    <title> REFRIBREAK es una empresa dedicada a la elaboración, distribución y comercialización de productos alimenticios. </title>
     <!--[if lt IE 9]>
     <script src="<?php bloginfo('template_url') ?>/js/respond.js"></script>
     <![endif]-->
@@ -37,9 +37,13 @@
     <!-- Animate CSS-->
     <link rel="stylesheet" href="<?php bloginfo('template_url') ?>/css/animate.css">
     <!-- Favicons-->
-    <link rel="apple-touch-icon" sizes="72x72" href="<?php bloginfo('template_url') ?>//apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="<?php bloginfo('template_url') ?>//apple-touch-icon-114x114.png">
-    <link rel="shortcut icon" href="favicon.ico" type="<?php bloginfo('template_url') ?>/image/x-icon">
+
+    <link rel="icon" type="image/png" sizes="32x32" href="<?php bloginfo('template_url') ?>/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="<?php bloginfo('template_url') ?>/img/favicon-96x96.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
     <?php wp_head(); ?>
 </head>
 <body id="page-top" class="full" data-spy="scroll" data-target=".navbar-custom">

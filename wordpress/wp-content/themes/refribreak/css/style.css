@@ -607,7 +607,7 @@ img.services_image {
 ============================ */
 
 #newsletter {
-    background: url(../img/coffee.png), url(../img/bgcoffee.png);
+    background: url(http://artico.site/Refri/wordpress/wp-content/uploads/2016/11/coffee.png), url(../img/bgcoffee.png);
     background-attachment: fixed, fixed;
     background-repeat: no-repeat, repeat-y;
 }
@@ -632,7 +632,7 @@ img.services_image {
 ============================ */
 
 #testimonial {
-    background: url(../img/coffee2.png), url(../img/bgcoffee.png);
+    background: url(http://artico.site/Refri/wordpress/wp-content/uploads/2016/11/coffee2.png), url(../img/bgcoffee.png);
     background-attachment: fixed;
     background-repeat: no-repeat, repeat-y;
 }
