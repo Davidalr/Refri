@@ -60,8 +60,13 @@ jQuery(function () {
                 title: $( this ).data('cord')
             });
         });
-
-
+        var Latlng = new google.maps.LatLng( 4.667842, -74.061854);
+        var marker = new google.maps.Marker({
+            position: Latlng,
+            icon: 'http://artico.site/Refri/wordpress/wp-content/uploads/2016/11/logo-refribreak.png',
+            map: map,
+            title: $( this ).data('cord')
+        });
         //Load WOW Animations
 
         new WOW().init();
