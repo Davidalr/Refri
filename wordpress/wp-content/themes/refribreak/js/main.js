@@ -51,12 +51,13 @@ jQuery(function () {
         var map = new google.maps.Map(mapCanvas, mapOptions)
         $('.location').each(function(i){
 
-            var Latlng = new google.maps.LatLng(  4.6681707, -74.0821514);
-            console.log( $( this ).val())
-            console.log(Latlng)
+
+            var latlngStr = $( this ).val().split(',', 2);
+            var latlng = {lat: parseFloat(latlngStr[0]), lng: parseFloat(latlngStr[1])};
+            var Latlngf = new google.maps.LatLng(latlngStr );
 
             var marker = new google.maps.Marker({
-                position: Latlng,
+                position: Latlngf,
                 icon: 'http://artico.site/Refri/wordpress/wp-content/uploads/2016/11/logo-refribreak.png',
                 map: map,
                 title: $( this ).data('cord')
