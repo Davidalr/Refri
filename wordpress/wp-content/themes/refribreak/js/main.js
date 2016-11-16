@@ -54,7 +54,7 @@ jQuery(function () {
 
             var latlngStr = $( this ).val().split(',', 2);
             var latlng = {lat: parseFloat(latlngStr[0]), lng: parseFloat(latlngStr[1])};
-            var Latlngf = new google.maps.LatLng(latlngStr );
+            var Latlngf = new google.maps.LatLng(latlng );
 
             var marker = new google.maps.Marker({
                 position: Latlngf,
