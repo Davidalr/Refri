@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb12223a-0ff7-41cb-80a0-e3eff17f1c7f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/index.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/main.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/main.js" />
     </list>
@@ -26,12 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/index.php">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6666667">
-              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.76955307">
+              <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,8 +67,8 @@
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/styles/orangejuice.css" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/css/style.css" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/header.php" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/main.js" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/index.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/main.js" />
       </list>
     </option>
   </component>
@@ -314,7 +316,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33730158" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33703703" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2207,87 +2209,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/main.js">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26666668">
-          <caret line="14" column="68" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.73743016">
+          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
           <folding>
-            <marker date="1479263510000" expanded="true" signature="0:100" placeholder="/*...*/" />
-            <marker date="1479263510000" expanded="true" signature="121:10227" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="158:8982" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="398:1916" placeholder="{&quot;zoom&quot;: 14...}" />
-            <marker date="1479263510000" expanded="true" signature="556:1906" placeholder="[...]" />
-            <marker date="1479263510000" expanded="true" signature="557:750" placeholder="{&quot;featureType&quot;: &quot;administrative&quot;...}" />
-            <marker date="1479263510000" expanded="true" signature="752:935" placeholder="{&quot;featureType&quot;: &quot;road&quot;...}" />
-            <marker date="1479263510000" expanded="true" signature="937:1120" placeholder="{&quot;featureType&quot;: &quot;water&quot;...}" />
-            <marker date="1479263510000" expanded="true" signature="1122:1326" placeholder="{&quot;featureType&quot;: &quot;landscape.man_made&quot;...}" />
-            <marker date="1479263510000" expanded="true" signature="1328:1531" placeholder="{&quot;featureType&quot;: &quot;landscape.natural&quot;...}" />
-            <marker date="1479263510000" expanded="true" signature="1533:1716" placeholder="{&quot;featureType&quot;: &quot;poi&quot;...}" />
-            <marker date="1479263510000" expanded="true" signature="1718:1905" placeholder="{&quot;featureType&quot;: &quot;transit&quot;...}" />
-            <marker date="1479263510000" expanded="true" signature="2017:2380" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="2137:2368" placeholder="{&quot;icon&quot;: 'http://artico.site/Refri/wordpress/wp-content/uploads/2016/11/logo-refribreak.png'...}" />
-            <marker date="1479263510000" expanded="true" signature="2529:2759" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="2609:2688" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="2881:3070" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="2929:2991" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="2997:3060" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="3150:3260" placeholder="{&quot;items&quot;: 1...}" />
-            <marker date="1479263510000" expanded="true" signature="3327:3729" placeholder="{&quot;dots&quot;: true...}" />
-            <marker date="1479263510000" expanded="true" signature="3490:3719" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="3511:3560" placeholder="{&quot;items&quot;: 1...}" />
-            <marker date="1479263510000" expanded="true" signature="3583:3632" placeholder="{&quot;items&quot;: 2...}" />
-            <marker date="1479263510000" expanded="true" signature="3656:3705" placeholder="{&quot;items&quot;: 4...}" />
-            <marker date="1479263510000" expanded="true" signature="3794:3904" placeholder="{&quot;items&quot;: 1...}" />
-            <marker date="1479263510000" expanded="true" signature="3967:4332" placeholder="{&quot;items&quot;: 3...}" />
-            <marker date="1479263510000" expanded="true" signature="4092:4322" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="4113:4162" placeholder="{&quot;items&quot;: 1...}" />
-            <marker date="1479263510000" expanded="true" signature="4186:4235" placeholder="{&quot;items&quot;: 2...}" />
-            <marker date="1479263510000" expanded="true" signature="4259:4308" placeholder="{&quot;items&quot;: 3...}" />
-            <marker date="1479263510000" expanded="true" signature="4443:4909" placeholder="{&quot;animation_speed&quot;: 'normal'...}" />
-            <marker date="1479263510000" expanded="true" signature="4484:4506" placeholder="/*...*/" />
-            <marker date="1479263510000" expanded="true" signature="4531:4558" placeholder="/*...*/" />
-            <marker date="1479263510000" expanded="true" signature="4589:4605" placeholder="/*...*/" />
-            <marker date="1479263510000" expanded="true" signature="4638:4694" placeholder="/*...*/" />
-            <marker date="1479263510000" expanded="true" signature="4737:4789" placeholder="/*...*/" />
-            <marker date="1479263510000" expanded="true" signature="4825:4899" placeholder="/*...*/" />
-            <marker date="1479263510000" expanded="true" signature="5212:5521" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="5268:5511" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="5582:5815" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="5846:6062" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="5902:6034" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="6124:6994" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="6152:6593" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="6455:6567" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="7028:7142" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="7177:7301" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="7374:8080" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="7642:8068" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="8139:8598" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="8250:8325" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="8365:8436" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="8465:8512" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="8540:8588" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="8664:8819" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="8708:8755" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="8761:8809" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="8888:8972" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="9138:10221" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="9200:9383" placeholder="{&quot;forceHeight&quot;: false...}" />
-            <marker date="1479263510000" expanded="true" signature="9271:9373" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="9559:9735" placeholder="{&quot;filter&quot;: '*'...}" />
-            <marker date="1479263510000" expanded="true" signature="9616:9725" placeholder="{&quot;duration&quot;: 750...}" />
-            <marker date="1479263510000" expanded="true" signature="9783:10213" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="9966:10175" placeholder="{...}" />
-            <marker date="1479263510000" expanded="true" signature="10036:10161" placeholder="{&quot;duration&quot;: 750...}" />
+            <marker date="1479264465000" expanded="true" signature="1213:1252" placeholder="..." />
+            <marker date="1479264465000" expanded="true" signature="1346:1500" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/index.php">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/refribreak/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6666667">
-          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.76955307">
+          <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -55,7 +55,7 @@
 <?php $location = new WP_Query('category_name=location');
 while ($location->have_posts()) : $location->the_post(); ?>
     location
-    <input type="hidden" class="location" data-title="<?php the_title() ?>" value="<?php the_content() ?>">
+    <input type="hidden" class="location" data-cord="<?php the_content() ?>" value=" <?php the_title() ?>">
 <?php endwhile;
 wp_reset_postdata(); ?>
 

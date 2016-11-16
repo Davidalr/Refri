@@ -14,7 +14,7 @@ jQuery(function () {
         var mapCanvas = document.getElementById('map-canvas');
         var myLatlng = new google.maps.LatLng(4.6681707, -74.0821514); //your latitude and longitude here
         var mapOptions = {
-            zoom: 14,
+            zoom: 12,
             scrollwheel: false,
             center: myLatlng,
             // How you would like to style the map.
@@ -56,7 +56,7 @@ jQuery(function () {
                 position: myLatlng,
                 icon: 'http://artico.site/Refri/wordpress/wp-content/uploads/2016/11/logo-refribreak.png',
                 map: map,
-                title: $( this ).data('title')
+                title: $( this ).data('cord')
             });
         });
 
