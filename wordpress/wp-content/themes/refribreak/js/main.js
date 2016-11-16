@@ -50,10 +50,11 @@ jQuery(function () {
         }
         var map = new google.maps.Map(mapCanvas, mapOptions)
         $('.location').each(function(i){
-
-            var myLatlng = new google.maps.LatLng( $( this ).val());
+            console.log( $( this ).val())
+            console.log('bo')
+            var Latlng = new google.maps.LatLng( $( this ).val());
             var marker = new google.maps.Marker({
-                position: myLatlng,
+                position: Latlng,
                 icon: 'http://artico.site/Refri/wordpress/wp-content/uploads/2016/11/logo-refribreak.png',
                 map: map,
                 title: $( this ).data('cord')
