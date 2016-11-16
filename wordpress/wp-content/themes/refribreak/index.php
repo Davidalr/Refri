@@ -1,56 +1,64 @@
 <?php get_header(); ?>
 
-    <!-- Section Opening Times -->
+<!-- Section Opening Times -->
 <?php get_template_part('include/offer'); ?>
-    <!-- / section ends-->
+<!-- / section ends-->
 
-    <!-- Section Menu -->
+<!-- Section Menu -->
 <?php get_template_part('include/menu'); ?>
-    <!-- /Section menu ends -->
-    <!-- Section Services --><!-- /Section ends -->
+<!-- /Section menu ends -->
+<!-- Section Services --><!-- /Section ends -->
 
-    <!-- Section Newsletter -->
+<!-- Section Newsletter -->
 <?php get_template_part('include/newsletter'); ?>
-    <!-- Section Ends-->
+<!-- Section Ends-->
 
-    <!-- Section Testimonials -->
+<!-- Section Testimonials -->
 <?php get_template_part('include/testimonials'); ?>
-    <!-- Section ends-->
+<!-- Section ends-->
 
-    <!-- Section Brands -->
+<!-- Section Brands -->
 <?php get_template_part('include/brands'); ?>
-    <!-- Section ends -->
+<!-- Section ends -->
 
-    <!-- Section About -->
-    <!--/ Section ends -->
+<!-- Section About -->
+<!--/ Section ends -->
 
-    <!-- Section Stats -->
+<!-- Section Stats -->
 <?php get_template_part('include/stats'); ?>
-    <!-- section ends -->
+<!-- section ends -->
 
 
-    <!-- Section Gallery -->
+<!-- Section Gallery -->
 <?php get_template_part('include/gallery'); ?>
-    <!-- Section ends -->
+<!-- Section ends -->
 
-    <!-- Section Call to Action -->
+<!-- Section Call to Action -->
 <?php get_template_part('include/call'); ?>
-    <!-- Section ends -->
+<!-- Section ends -->
 
-    <!-- Section Team -->    <!-- Section ends -->
+<!-- Section Team -->    <!-- Section ends -->
 
-    <!-- Section Contact -->
+<!-- Section Contact -->
 <?php get_template_part('include/contact'); ?>
-    <!--Section ends -->
+<!--Section ends -->
 
-    <!-- Section Opening Times -->
+<!-- Section Opening Times -->
 <?php get_template_part('include/times'); ?>
-    <!-- / section ends-->
+<!-- / section ends-->
 
-    <!-- Map -->
-    <div id="contact" class="wow fadeInTop" data-wow-delay="0.2s">
-        <div id="map-canvas"></div>
-    </div>
-    <!-- / Map ends-->
+<!-- Map -->
+<div id="contact" class="wow fadeInTop" data-wow-delay="0.2s">
+    <div id="map-canvas"></div>
+</div>
+
+<?php $location = new WP_Query('category_name=location');
+while ($location->have_posts()) : $location->the_post(); ?>
+    location
+    <input type="hidden" class="location" data-title="<?php the_title() ?>" value="<?php the_content() ?>">
+<?php endwhile;
+wp_reset_postdata(); ?>
+
+<!-- / Map ends-->
 
 <?php get_footer(); ?>

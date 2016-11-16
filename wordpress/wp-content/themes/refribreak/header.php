@@ -14,7 +14,7 @@
     <script src="<?php bloginfo('template_url') ?>/js/respond.js"></script>
     <![endif]-->
     <!-- Bootstrap Core CSS -->
-    <link href="https://fonts.googleapis.com/css?family= Comfortaa " rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
     <link href="<?php bloginfo('template_url') ?>/css/bootstrap.css" rel="stylesheet" type="text/css">
     <!-- Icon fonts -->
     <link href="<?php bloginfo('template_url') ?>/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"
